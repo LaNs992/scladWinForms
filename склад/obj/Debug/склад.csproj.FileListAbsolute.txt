@@ -1,0 +1,12 @@
+C:\Users\lans_\OneDrive\Desktop\Новая папка\Новая папка\склад\bin\Debug\склад.exe.config
+C:\Users\lans_\OneDrive\Desktop\Новая папка\Новая папка\склад\bin\Debug\склад.exe
+C:\Users\lans_\OneDrive\Desktop\Новая папка\Новая папка\склад\bin\Debug\склад.pdb
+C:\Users\lans_\OneDrive\Desktop\Новая папка\Новая папка\склад\obj\Debug\склад.csproj.AssemblyReference.cache
+C:\Users\lans_\OneDrive\Desktop\Новая папка\Новая папка\склад\obj\Debug\склад.csproj.SuggestedBindingRedirects.cache
+C:\Users\lans_\OneDrive\Desktop\Новая папка\Новая папка\склад\obj\Debug\склад.addform.resources
+C:\Users\lans_\OneDrive\Desktop\Новая папка\Новая папка\склад\obj\Debug\склад.Form1.resources
+C:\Users\lans_\OneDrive\Desktop\Новая папка\Новая папка\склад\obj\Debug\склад.Properties.Resources.resources
+C:\Users\lans_\OneDrive\Desktop\Новая папка\Новая папка\склад\obj\Debug\склад.csproj.GenerateResource.cache
+C:\Users\lans_\OneDrive\Desktop\Новая папка\Новая папка\склад\obj\Debug\склад.csproj.CoreCompileInputs.cache
+C:\Users\lans_\OneDrive\Desktop\Новая папка\Новая папка\склад\obj\Debug\склад.exe
+C:\Users\lans_\OneDrive\Desktop\Новая папка\Новая папка\склад\obj\Debug\склад.pdb
